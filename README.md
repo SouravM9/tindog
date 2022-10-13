@@ -3,4 +3,4 @@ Tindog is a copy cat of Tinder, but only dogs are allowed. XD It is a guided pro
 
 Visit - https://souravm9.github.io/tindog/
 
-![alt text]()
+![alt text](https://github.com/SouravM9/tindog/blob/master/images/tindog.png)
